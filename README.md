@@ -4,17 +4,17 @@ Welcome to my profile! I am a student, coder, part-time cinephile and full time 
 
 ### About me
 
-🔭 I’m currently working on simple Flutter based mobile apps <br>
-🌱 I’m currently learning Flutter and DSA<br>
-⚡ Fun fact: I've watched so many movies that my dreams ends with a post-credits scene.🎥✨<br>
+🔭 I’m currently exploring on simple Machine Learning problems<br>
+🌱 I’m currently learning ML and DSA<br>
+⚡ Fun fact: I've watched so many movies that my dreams ends with a post-credits scene. 🎥✨<br>
 
-### Languages and Tech Stacks
+### Languages and Technologies
 <p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="35"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tenforflow" width="40" height="30" style="padding-right:10px"/> </a>
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="30" style="padding-right:10px"/> </a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30" style="padding-right:10px"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="30" style="padding-right:10px"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30" style="padding-right:10px"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="40" height="30" style="padding-right:10px"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="35"/> </a>
 </p>
 
 <br>
