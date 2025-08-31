@@ -18,11 +18,13 @@ Welcome to my profile! I am a student, coder, part-time cinephile and full time 
 </p>
 
 <br>
+<br>
 
 ### Find me on
 <p align="left">
-<a href="https://linkedin.com/in/sagnikbarik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="SagnikBarik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sagnikbarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SagnikBarik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagnikbarik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="SagnikBarik" height="30" width="40" style="padding-right:10px"/></a>
+<a href="https://www.leetcode.com/sagnikbarik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SagnikBarik" height="30" width="40" style="padding-right:10px"/></a>
+<a href="https://letterboxd.com/SagnikBarik/" target="blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" alt="SagnikBarik" height="105" width="55" style="padding-right:10px"/></a>
 <a href="https://open.spotify.com/user/94oqe80clg62vffhjh9loprtw?si=d72cdce2a02042b4" target="blank"><img align="center" src="https://www.svgrepo.com/show/475684/spotify-color.svg" alt="Sagnik" height="30" width="40" /></a>
 </p>
 
