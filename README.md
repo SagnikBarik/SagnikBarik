@@ -4,7 +4,7 @@ Welcome to my profile! I am a student, coder, part-time cinephile and full time 
 
 ### About me
 
-🔭 I’m currently exploring on simple Machine Learning problems<br>
+🔭 I’m currently exploring simple Machine Learning problems<br>
 🌱 I’m currently learning ML and DSA<br>
 ⚡ Fun fact: I've watched so many movies that my dreams ends with a post-credits scene. 🎥✨<br>
 
