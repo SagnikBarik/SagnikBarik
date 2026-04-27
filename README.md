@@ -20,7 +20,7 @@ Welcome to my profile! I am a student, coder, part-time cinephile and full time 
 <br>
 <br>
 
-markdown### Find me on
+### Find me on
 <p align="left">
 <a href="https://linkedin.com/in/sagnikbarik" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="SagnikBarik" height="35" width="40" style="padding-right:10px"/></a>
 <a href="https://www.leetcode.com/sagnikbarik" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SagnikBarik" height="35" width="40" style="padding-right:10px"/></a>
